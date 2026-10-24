@@ -13,17 +13,12 @@ I have two sides:
 
 I'm an IC designer first, and a curious builder always.
 
-## 🔧 Featured Chip Design Work
-- 🧠 **Full-Custom SRAM Cell Design** (Project Lead): 10T / 6T / 5T / 4T variants in Cadence Virtuoso at 90nm and 45nm CMOS, with DRC/LVS verification.
-- 🏆 **IC Mask Design Training** (ULKASEMI, 16nm node): ranked **2nd of 14** participants.
-- 📄 **Published Research:** conference paper on an SPR biosensor for water pollution detection 💧
-
 ## 🖥️ My Servers & Apps (Built for Fun 🎮)
 Many repositories on this account are servers and apps I built for my own use. **You're welcome to use them too!** They are fully functional, not just demos.
 
 - 💎 **GemVault:** tracks daily gems/coins across AI platform accounts, with PIN login and GitHub-backed storage.
 - 🎬 **Media Tracker & Streaming Platform:** tracks anime, movies, TV, K-drama, and web series, with multi-user accounts.
-- 🔍 *...and more in my repositories, so go explore!*
+- 🔍 *, so go explore!*
 
 ## 💡 Why I Build
 Chip design taught me precision, and building servers keeps me curious. I learn best by making things that actually run, and I enjoy sharing them with others.
