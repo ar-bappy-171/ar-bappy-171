@@ -11,7 +11,7 @@ I have two sides:
 - ⚡ **Career:** I'm building a career in **VLSI and semiconductors**, aiming for entry-level roles in **IC Physical Design / IC Mask Design**.
 - 🛠️ **Hobby:** I love building **servers and web apps** for fun, for my own daily use, and to explore new ideas and opportunities.
 
-I'm an IC designer first, and a curious builder always.
+I'm an IC Engineer first, and a curious builder always.
 
 ## 🖥️ My Servers & Apps (Built for Fun 🎮)
 Many repositories on this account are servers and apps I built for my own use. **You're welcome to use them too!** They are fully functional, not just demos.
