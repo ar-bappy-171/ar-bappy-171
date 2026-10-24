@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Asibur Rahman Bappy
 
 **IC Design Aspirant 🔬 | Server Builder & Explorer 🚀**
-EEE Graduate (AUST, 2025) • Dhaka, Bangladesh 🇧🇩
+EEE Graduate (AUST) • Dhaka, Bangladesh 🇧🇩
 
 ---
 
