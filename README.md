@@ -18,7 +18,7 @@ Many repositories on this account are servers and apps I built for my own use. *
 
 - 💎 **GemVault:** tracks daily gems/coins across AI platform accounts, with PIN login and GitHub-backed storage.
 - 🎬 **Media Tracker & Streaming Platform:** tracks anime, movies, TV, K-drama, and web series, with multi-user accounts.
-- 🔍 *, so go explore!*
+- 🔍 ***Click [AR_Projects](arprojects.vercel.app) and go explore!*
 
 ## 💡 Why I Build
 Chip design taught me precision, and building servers keeps me curious. I learn best by making things that actually run, and I enjoy sharing them with others.
