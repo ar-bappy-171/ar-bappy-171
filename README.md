@@ -35,7 +35,7 @@ Chip design taught me precision, and building servers keeps me curious. I learn 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 📫 Let's Connect
-- 🌐 Portfolio: [Asibur_Rahman_Bappy](asiburrahmanbappy.vercel.app)
+- 🌐 Portfolio: [Asibur_Rahman_Bappy](https://ar-bappy-171.github.io/AsiburPortfolio/)
 - 📧 Email: asibur.eee.171@gmail.com
 - 🆔 ORCID: [0009-0006-9444-8982](https://orcid.org/0009-0006-9444-8982)
 
