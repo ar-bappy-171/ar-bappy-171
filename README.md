@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Asibur Rahman Bappy
 
-<!--
-**ar-bappy-171/ar-bappy-171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IC Design Aspirant 🔬 | Server Builder & Explorer 🚀**
+EEE Graduate (AUST, 2025) • Dhaka, Bangladesh 🇧🇩
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Who I Am
+I have two sides:
+
+- ⚡ **Career:** I'm building a career in **VLSI and semiconductors**, aiming for entry-level roles in **IC Physical Design / IC Mask Design**.
+- 🛠️ **Hobby:** I love building **servers and web apps** for fun, for my own daily use, and to explore new ideas and opportunities.
+
+I'm an IC designer first, and a curious builder always.
+
+## 🔧 Featured Chip Design Work
+- 🧠 **Full-Custom SRAM Cell Design** (Project Lead): 10T / 6T / 5T / 4T variants in Cadence Virtuoso at 90nm and 45nm CMOS, with DRC/LVS verification.
+- 🏆 **IC Mask Design Training** (ULKASEMI, 16nm node): ranked **2nd of 14** participants.
+- 📄 **Published Research:** conference paper on an SPR biosensor for water pollution detection 💧
+
+## 🖥️ My Servers & Apps (Built for Fun 🎮)
+Many repositories on this account are servers and apps I built for my own use. **You're welcome to use them too!** They are fully functional, not just demos.
+
+- 💎 **GemVault:** tracks daily gems/coins across AI platform accounts, with PIN login and GitHub-backed storage.
+- 🎬 **Media Tracker & Streaming Platform:** tracks anime, movies, TV, K-drama, and web series, with multi-user accounts.
+- 🔍 *...and more in my repositories, so go explore!*
+
+## 💡 Why I Build
+Chip design taught me precision, and building servers keeps me curious. I learn best by making things that actually run, and I enjoy sharing them with others.
+
+## 🛠️ Tech Stack
+![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-000000?style=flat)
+![Innovus](https://img.shields.io/badge/Cadence_Innovus-000000?style=flat)
+![Verilog](https://img.shields.io/badge/Verilog-1f6feb?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+## 📫 Let's Connect
+- 🌐 Portfolio: [Asibur_Rahman_Bappy](asiburrahmanbappy.vercel.app)
+- 📧 Email: asibur.eee.171@gmail.com
+- 🆔 ORCID: [0009-0006-9444-8982](https://orcid.org/0009-0006-9444-8982)
+
+⭐ *Open to entry-level opportunities in VLSI and semiconductors.*
